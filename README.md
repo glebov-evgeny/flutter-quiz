@@ -9,4 +9,5 @@ For memory:
 
 ## Picture
 
-![file](https://github.com/glebov-evgeny/flutter-quiz/assets/35433087/d07fef02-63c2-49b9-9beb-57c89c05f933)
+![sss](https://github.com/glebov-evgeny/flutter-quiz/assets/35433087/ad1201a4-8a31-44ed-b199-129637d258d5)
+
